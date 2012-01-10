@@ -1,0 +1,27 @@
+These are my notes from the ml-class course tought over the
+internet by Andrew Ng, fall 2011.
+
+To build the notes do
+
+     sh buildall.sh
+
+and you will get a file called "notes.pdf" that you can enjoy.  
+To clean up you can execute the script 
+
+    sh cleanall.sh
+
+and that will remove everything made by the build process.
+
+If you have improvements, or suggestions please feel free to 
+send me a note or clone the document on github and fix it
+yourself.
+
+     https://github.com/la3lma/mlclassnotes
+
+Disclaimer:  These are my personal notes. I typed them in
+as I watched the course videos and have only to a very limited
+extent cleaned them up afterwards.  Consequently there will be
+a lot of things that can be improved.  I may or may not get
+around to fix this, but most likely I will not, so caveat
+reader and every little piece of help is much appreciated.
+
