@@ -1,0 +1,9 @@
+screenshots/*.jpg
+*~
+*.aux
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
