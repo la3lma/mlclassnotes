@@ -3,7 +3,7 @@ internet by Andrew Ng, fall 2011.
 
 A PDF version of the document can be found at 
 
-     http://dl.dropbox.com/u/187726/machine-learning-notes.pdf
+   https://github.com/la3lma/mlclassnotes/blob/master/notes.pdf
 
 To build the notes do
 
@@ -28,9 +28,3 @@ extent cleaned them up afterwards.  Consequently there will be
 a lot of things that can be improved.  I may or may not get
 around to fix this, but most likely I will not, so caveat
 reader and every little piece of help is much appreciated.
-
-
-ps: If you are rmz, then it might be of interest to
-    use the script bin/deploy.sh that will deploy the 
-    built notes.pdf file to http://dl.dropbox.com/u/187726/machine-learning-notes.pdf
-    
